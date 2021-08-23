@@ -1,0 +1,58 @@
+[
+  {
+    "model": "writersbooks.Book",
+    "id": 1,
+    "fields": {
+      "writer": 1,
+      "name": "The Feast of the Goat"
+    }
+  },
+  {
+    "model": "writersbooks.Book",
+    "id": 2,
+    "fields": {
+      "writer": 1,
+      "name": "The Discreet Hero"
+    }
+  },
+  {
+    "model": "writersbooks.Book",
+    "id": 3,
+    "fields": {
+      "writer": 2,
+      "name": "Eight Months on Ghazzah Street"
+    }
+  },
+  {
+    "model": "writersbooks.Book",
+    "id": 4,
+    "fields": {
+      "writer": 3,
+      "name": "The Remains of the Day"
+    }
+  },
+  {
+    "model": "writersbooks.Book",
+    "id": 5,
+    "fields": {
+      "writer": 4,
+      "name": "The Surfacing"
+    }
+  },
+  {
+    "model": "writersbooks.Book",
+    "id": 6,
+    "fields": {
+      "writer": 5,
+      "name": "The Moor’s Last Sigh"
+    }
+  },
+  {
+    "model": "writersbooks.Book",
+    "id": 7,
+    "fields": {
+      "writer": 6,
+      "name": "The Joke"
+    }
+  }
+]

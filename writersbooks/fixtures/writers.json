@@ -1,0 +1,44 @@
+[
+  {
+    "model": "writersbooks.Writer",
+    "pk": 1,
+    "fields": {
+      "name": "Mario Vargas Llosa"
+    }
+  },
+  {
+    "model": "writersbooks.Writer",
+    "pk": 2,
+    "fields": {
+      "name": "Hilary Mantel"
+    }
+  },
+  {
+    "model": "writersbooks.Writer",
+    "pk": 3,
+    "fields": {
+      "name": "Kazuo Ishiguro"
+    }
+  },
+    {
+    "model": "writersbooks.Writer",
+    "pk": 4,
+    "fields": {
+      "name": "Margaret Atwood"
+    }
+  },
+    {
+    "model": "writersbooks.Writer",
+    "pk": 5,
+    "fields": {
+      "name": "Salman Rushdie"
+    }
+  },
+    {
+    "model": "writersbooks.Writer",
+    "pk": 6,
+    "fields": {
+      "name": "Milan Kundera"
+    }
+  }
+]
